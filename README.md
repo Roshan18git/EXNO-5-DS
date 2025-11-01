@@ -140,7 +140,6 @@ ax.boxplot(data)
 ax.set_xlabel('Data')
 ax.set_ylabel('Values')
 ax.set_title('Box Plot')
-
 ```
 <img width="565" height="455" alt="image" src="https://github.com/user-attachments/assets/e90848ae-b7e9-4674-bf30-584592469ec3" />
 
